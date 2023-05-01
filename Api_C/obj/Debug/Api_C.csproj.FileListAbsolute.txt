@@ -1,0 +1,13 @@
+C:\Users\52866\Documents\Api_C\Api_C\bin\Debug\Api_C.exe.config
+C:\Users\52866\Documents\Api_C\Api_C\bin\Debug\Api_C.exe
+C:\Users\52866\Documents\Api_C\Api_C\bin\Debug\Api_C.pdb
+C:\Users\52866\Documents\Api_C\Api_C\bin\Debug\Newtonsoft.Json.dll
+C:\Users\52866\Documents\Api_C\Api_C\bin\Debug\Newtonsoft.Json.xml
+C:\Users\52866\Documents\Api_C\Api_C\obj\Debug\Api_C.csprojAssemblyReference.cache
+C:\Users\52866\Documents\Api_C\Api_C\obj\Debug\Api_C.Form1.resources
+C:\Users\52866\Documents\Api_C\Api_C\obj\Debug\Api_C.Properties.Resources.resources
+C:\Users\52866\Documents\Api_C\Api_C\obj\Debug\Api_C.csproj.GenerateResource.cache
+C:\Users\52866\Documents\Api_C\Api_C\obj\Debug\Api_C.csproj.CoreCompileInputs.cache
+C:\Users\52866\Documents\Api_C\Api_C\obj\Debug\Api_C.csproj.CopyComplete
+C:\Users\52866\Documents\Api_C\Api_C\obj\Debug\Api_C.exe
+C:\Users\52866\Documents\Api_C\Api_C\obj\Debug\Api_C.pdb
